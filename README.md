@@ -5,7 +5,7 @@ Overview/Purpose: Analyze Boston AirBNB listing data to determine:
 3. Are some rental room types (house, bedroom, condo, etc) in demand more than others? 
 
 Background: 
-- Listing data collected from Kaggle
+- Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston)
 
 Methods/Models:
 - outcome 1 (pricing increase based on rooms and square feet) correlation plotted on scatter diagram
