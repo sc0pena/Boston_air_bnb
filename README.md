@@ -8,7 +8,7 @@ Background:
 - Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data from 2009 through 2016. 
 
 Methods/Models:
-- outcome 1 (pricing increase based on rooms and square feet) correlation plotted on scatter diagram
+- outcome 1 (pricing increase based on rooms and beds) correlation plotted on scatter diagram
 - outcome 2 (pricing per neighborhood) displayed on a bar chart
 - outcome 3 (rental room type demand) displayed on a bar chart
 
