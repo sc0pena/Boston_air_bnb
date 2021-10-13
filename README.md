@@ -1,7 +1,7 @@
 # Boston AirBNB
 Overview/Purpose: Analyze Boston AirBNB listing data to determine:
 1. Does list price (dependant variable) increase with number of bedrooms, number of bathrooms, number of beds?
-2. Which neighborhoods in Boston have higher priced listings; categorize from highest to lowest
+2. Which neighborhoods in Boston have higher priced listings (categorize highest to lowest)?
 3. Are some rental room types (house, bedroom, condo, etc) in demand more (available less) than others? 
 
 Background: 
