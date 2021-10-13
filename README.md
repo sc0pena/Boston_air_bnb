@@ -14,5 +14,5 @@ Outcome 1 (pricing increase based on rooms and beds) correlation plotted on scat
 
 Outcome 2 (neighborhood pricing) displayed on a bar chart; show descriptive statistics
 
-Outcome 3 (rental room type demand) displayed on a bar chart; show descriptive statistics
+Outcome 3 (rental room type demand based on 90 day availability) displayed on a bar chart; show descriptive statistics
 
