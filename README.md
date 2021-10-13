@@ -9,7 +9,7 @@ Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data 
 
 Methods/Models
 
-For question 1 (pricing increase based on rooms and beds) correlation plotted on scatter diagram
+For question 1 (pricing increase based on rooms and beds) correlation plotted on scatter diagram + statistics provided
 - I thought about concatenating bedrooms + bathrooms + beds into 1 categorical variable and using pandas.get_dummies(), but the population is small (I don't think this was a   good approach)
 
 For question 2 (neighborhood pricing) displayed on a bar chart; show descriptive statistics
