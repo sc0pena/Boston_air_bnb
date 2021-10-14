@@ -16,7 +16,7 @@ Analyze, model, and visualize four questions related to Boston AirBNB listing da
 1. Is number of of bathrooms closely related to listing price? what about number of bedrooms?
 2. Can we provide insight into how much a rental with a certain number of bedrooms/bathrooms lists for?
 3. Can we provide Airbnb owners typical rental prices in different Boston neighborhoods? 
-4. Can we provide Boston Airbnb owners feedback on rental type demand (IE, are rooms or full units in higher demand)?
+4. Can we provide Boston Airbnb owners feedback on rental type demand (IE, are rooms/shared rooms/full units in higher demand)?
 
 ## Background<a name="background"></a> 
 This is an assignment for the Udacity Data Scientist nano degree program. 
