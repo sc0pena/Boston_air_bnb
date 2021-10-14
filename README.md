@@ -28,7 +28,7 @@ Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data 
 
 ## Results<a name="results"></a> 
 - A business explanation of the results can be found on Medium: LINK HERE
-- For question 1 - number of bedrooms and number of bathrooms is correlated to pricing (number increases, price of listing increases). A higher correlation exists between pricing and bedrooms then it does for pricing and bathrooms
+- For question 1 - number of bedrooms/bathrooms is correlated to pricing (number increases, price of listing increases). A higher correlation exists between pricing and bedrooms then it does for pricing and bathrooms
 - CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a> 
