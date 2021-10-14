@@ -8,7 +8,7 @@
 
 ## Installation<a name="installation"></a>
 
-Libraries used found in the Anaconda distribution of Python. This code works with Python versions 3.
+Libraries used found in the Anaconda distribution of Python. This code works with Python version 3.
 
 ## Project Overview<a name="overview"></a>
 Analyze, model, and visualize three questions related to Boston AirBNB listing data:
