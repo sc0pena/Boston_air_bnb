@@ -23,8 +23,8 @@ This is an assignment for the Udacity Data Scientist nano degree program.
 Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data is from 2009-2016. 
 
 ## File Descriptions<a name="descriptions"></a> 
-SP_dsnano_BostonAirbnb.ipynb - notebook containing CRISP-DM process flow and other details 
-Boston_listings.csv - file downloaded from Kaggle containing Airbnb listing data
+- SP_dsnano_BostonAirbnb.ipynb - notebook containing CRISP-DM process flow and other details 
+- Boston_listings.csv - file downloaded from Kaggle containing Airbnb listing data
 
 ## Results<a name="results"></a> 
 - A business explanation of the results can be found on Medium: LINK HERE
