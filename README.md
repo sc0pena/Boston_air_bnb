@@ -23,7 +23,7 @@ Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data 
 CRISP-DM process provided in the Jupyter notebook (SP_dsnano_BostonAirbnb.ipynb)
 
 ## Results<a name="results"></a> 
-A business explanation of the results can be found on Medium: LINK HERE
- CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
+- A business explanation of the results can be found on Medium: LINK HERE
+- CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a> 
