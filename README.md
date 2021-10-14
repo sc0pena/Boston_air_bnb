@@ -24,7 +24,7 @@ Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data 
 
 ## File Descriptions<a name="descriptions"></a> 
 - SP_dsnano_BostonAirbnb.ipynb - notebook containing CRISP-DM process flow and other details 
-- Boston_listings.csv - file downloaded from Kaggle containing Airbnb listing data
+- Boston_listings.csv - file downloaded from Kaggle containing Airbnb listing data (NOTE: file renamed from listings.csv to boston_listings.csv)
 
 ## Results<a name="results"></a> 
 - A business explanation of the results can be found on Medium: LINK HERE
