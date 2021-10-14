@@ -27,3 +27,4 @@ CRISP-DM process provided in the Jupyter notebook (SP_dsnano_BostonAirbnb.ipynb)
 - CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a> 
+Stack Overflow and other resources used (links are found within the Jupyter notebook)
