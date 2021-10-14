@@ -14,7 +14,7 @@ Libraries used found in the Anaconda distribution of Python. This code works wit
 ## Project Overview<a name="overview"></a>
 Analyze, model, and visualize four questions related to Boston AirBNB listing data:
 1. Is number of of bathrooms closely related to listing price? what about number of bedrooms?
-2. Can we provide insight into how much a rental with a certain number of bedrooms/bathrooms should list?
+2. Can we provide insight into how much a rental with a certain number of bedrooms/bathrooms lists for?
 3. Can we provide Airbnb owners typical rental prices in different Boston neighborhoods? 
 4. Can we provide Boston Airbnb owners feedback on rental type demand (IE, are rooms or full units in higher demand)?
 
