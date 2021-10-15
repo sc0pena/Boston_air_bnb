@@ -14,9 +14,10 @@ Libraries used found in the Anaconda distribution of Python. This code works wit
 ## Project Overview<a name="overview"></a>
 Analyze, model, and visualize four questions related to Boston AirBNB listing data:
 1. Is there high variance between the mean price per bedroom/bathroom and observed/actual listing prices?
-2. What is the average rental listing price per bedroom/bathroom?
-3. Can we provide Airbnb owners typical rental prices in different Boston neighborhoods? 
-4. Can we provide Boston Airbnb owners feedback on rental type demand (IE, are rooms/shared rooms/full units in higher demand)?
+2. As the number of bedrooms increase does list price increase? What about number of bathrooms?
+3. What is the average rental listing price per bedroom/bathroom?
+4. Can we provide Airbnb owners typical rental prices in different Boston neighborhoods? 
+5. Can we provide Boston Airbnb owners feedback on rental type demand (IE, are rooms/shared rooms/full units in higher demand)?
 
 ## Background<a name="background"></a> 
 This is an assignment for the Udacity Data Scientist nano degree program. 
