@@ -13,8 +13,8 @@ Libraries used found in the Anaconda distribution of Python. This code works wit
 
 ## Project Overview<a name="overview"></a>
 Analyze, model, and visualize four questions related to Boston AirBNB listing data:
-1. Is there high or low variance between the mean price per bedroom/bathroom and observed list prices?
-2. As the number of bedrooms increase does list price increase? What about number of bathrooms?
+1. Is there high or low variance between the mean price per bedroom/bathroom and observed list prices (entire units only)?
+2. As the number of bedrooms increase does list price increase? What about number of bathrooms (entire units only)?
 3. Can we provide Airbnb owners typical rental prices in different Boston neighborhoods? 
 4. Can we provide Boston Airbnb owners feedback on rental type demand (IE, are rooms/shared rooms/full units in higher demand)?
 
@@ -28,7 +28,6 @@ Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data 
 
 ## Results<a name="results"></a> 
 - A business explanation of the results can be found on Medium: LINK HERE
-- For question 1 - number of bedrooms/bathrooms is correlated to pricing (number increases, price of listing increases). A higher correlation exists between pricing and bedrooms then it does for pricing and bathrooms.
 - CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a> 
