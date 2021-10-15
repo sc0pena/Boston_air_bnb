@@ -27,7 +27,7 @@ Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data 
 - Boston_listings.csv - file downloaded from Kaggle containing Airbnb listing data (NOTE: file renamed from listings.csv to boston_listings.csv)
 
 ## Results<a name="results"></a> 
-- A business explanation of the results can be found on Medium: LINK HERE
+- A business explanation of the results can be found on Medium: https://medium.com/@scott.m.pena/a-little-data-science-can-go-a-long-way-3e4c696e08d5
 - CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a> 
