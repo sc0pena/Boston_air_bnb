@@ -12,11 +12,11 @@
 Libraries used found in the Anaconda distribution of Python. This code works with Python version 3.
 
 ## Project Overview<a name="overview"></a>
-Identify customer segments for a mail order company selling organic products in Germany using unsupervised machine learning. Predict individuals likely to become a customer using supervised machine learning There are 4 data sets with anonymized demographic info provided by Arvato Financial Solutions: 
-- Germany population demographics with 366 features (891,211 individuals)
-- Existing mail order customer demographics with 366 features (191,652 individuals)
-- Demographics for individuals targeted in a 2018 mail order campaign, including success/failure to onboard (42,982 individuals)
-- Demographics for individuals targeted in a 2018 mail order campaign, without the inclusion of success/failure to onboard (42,833 individuals)
+Analyze, model, and visualize four questions related to Boston AirBNB listing data:
+1. Is there high or low variance between the mean price per bedroom/bathroom and observed list prices (entire units only)?
+2. As the number of bedrooms increase does list price increase? What about number of bathrooms (entire units only)?
+3. Can we provide Airbnb owners typical rental prices in different Boston neighborhoods? 
+4. Can we provide Boston Airbnb owners feedback on rental type demand (IE, are rooms/shared rooms/full units in higher demand)?)
 
 ## Background<a name="background"></a> 
 Udacity Data Scientist nano degree assignment. 
